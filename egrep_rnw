@@ -1,0 +1,2 @@
+egrep -rnw '/etc/ssh/sshd_config' -e "#__DMR__Security"
+egrep -rnw '/etc/ssh/sshd_config' -e "#PasswordAuthentication"
